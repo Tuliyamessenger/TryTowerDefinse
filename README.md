@@ -23,9 +23,11 @@ There is only one save file for a round of game. Each time at the beginning of t
 #目前完成 What has done
 -
 战场的各类机能已经基本完成。
+
 Normally all the system of battle.
 
 大地图的各类机能已经基本完成，除了剧情模式只能弹个对话框。目前测试的唯一剧情就是在一个没有图片的残骸上拿个核弹头。
+
 Almost all the gameplay in strategy map, but the story system is just a chat box on screen. For now in the DEMO, the only story is player found a nuclear boom in a wreckage field.
 
 至于美工和音乐……
