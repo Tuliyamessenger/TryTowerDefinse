@@ -17,11 +17,16 @@ It is a TD game with some RTS gameplay, it might include some RPG and Rogue-like
 
 每次游戏按一局为单位，只能存一个档且强制存档。每局开始可以带已有的道具和战舰单位进入，在一局游戏中可以触发不同的事件和故事，获取装备或战舰，结束后可以选择一些新的装备或者战舰供下次使用。这么看来是被片道勇者(One Way Hero)影响太深了。游戏中主要的战斗方式是突破敌方的阵地，同时保护己方指挥舰不被破坏。形式上是RTS的塔防。具体的流程有点类似Tiny Guardians。
 
+There is only one save file for a round of game. Each time at the beginning of the round of game, player has chance to take some equipments and units into to war place. Player might found some special event or story and obtain useful units and equipments, and take some of them in to next round of game. Well, I tell you One Way Hero is a awesome game, I learnd fomr it. The battle in the game is normally break thought enemy's defense post while keep our commander ship be safe. It just a TD in a RTS way. Tiny Guardians can be a example.
 
-#目前完成
+
+#目前完成 What has done
 -
 战场的各类机能已经基本完成。
+Normally all the system of battle.
 
-大地图的各类技能已经基本完成，除了剧情模式只能弹个对话框。目前测试的唯一剧情就是在一个没有图片的残骸上拿个核弹头。
+大地图的各类机能已经基本完成，除了剧情模式只能弹个对话框。目前测试的唯一剧情就是在一个没有图片的残骸上拿个核弹头。
+Almost all the gameplay in strategy map, but the story system is just a chat box on screen. For now in the DEMO, the only story is player found a nuclear boom in a wreckage field.
 
 至于美工和音乐……
+Let's skip the art and sound.
