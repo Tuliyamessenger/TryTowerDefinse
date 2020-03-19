@@ -29,4 +29,5 @@ Normally all the system of battle.
 Almost all the gameplay in strategy map, but the story system is just a chat box on screen. For now in the DEMO, the only story is player found a nuclear boom in a wreckage field.
 
 至于美工和音乐……
+
 Let's skip the art and sound.
